@@ -1,20 +1,24 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![BrownZhu](https://img.shields.io/badge/BrownZhu-github-blue?logo=github)](https://github.com/dashboard)
 
 I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>zhukaimath97@gmail.com@XX.XX</code>  
+<code>812576521@qq.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Southeast University**, M.S., Computational Mathematics, School of Mathematics (Sep.,2020 – Jun.,2023)  
+<!-- • GPA: XX/XX   -->
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+<!-- **XX University**, Exchange student <br>   -->
+<!-- • As a XX, represented my college as an outstanding student for a XX exchange program.   -->
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**CHINA UNIVERSITY OF MINING AND TECHNOLOGY**, B.S., Mathematics and Applied Mathematics, School of Mathematics (Sep.,2016 – Jun.,2020)  
+<!-- • GPA: XX/XX (top XX%)   -->
 
 #### Research Interests  
-XX, XX, XX, XX.
+- Inverse Problem and Medical Imaging: electrical impedance tomography (EIT), acousto-electric tomography (AET).
+
+- Iterative Regularization Method.
+
+- Numerical Computation.
