@@ -1,9 +1,9 @@
 [![BrownZhu](https://img.shields.io/badge/BrownZhu-github-blue?logo=github)](https://github.com/dashboard)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently a Phd. candidate in Southeast University, NanJing, JiangSu, Chian at the college of mathematics.
 
 #### Email  
-<code>zhukaimath97@gmail.com@XX.XX</code>  
+<code>zhukaimath97@gmail.com</code>  
 <code>812576521@qq.com</code>
 
 #### Education  
