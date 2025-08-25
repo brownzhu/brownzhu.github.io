@@ -109,4 +109,14 @@ section .main-body{
     }
 }
 
-
+.top-section-bg-text {
+    position: absolute !important;
+    top: 30% !important;
+    left: 10% !important;
+    transform: translate(0%, -30%) !important;
+    font-size: 80px !important;
+    opacity: 0.05 !important;
+    color: white !important;
+    z-index: 0 !important;
+    pointer-events: none !important;
+}
