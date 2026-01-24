@@ -1,9 +1,11 @@
-### **Electrical Impedance Tomography (EIT)**  
-**Nov. 2024 – Present | Southeast University (SEU) & NJCAM**  
+## Research Experience
 
-Participating in research on Electrical Impedance Tomography, with a focus on reconstruction algorithm design and the study of forward problem models and their mathematical properties.  
+### Electrical Impedance Tomography (EIT)
 
-#### Key Contributions:  
-- Contributed to the design and analysis of iterative reconstruction algorithms for EIT.  
-- Investigated forward problem modeling in EIT and organized key theoretical properties.  
-- Collaborated on integrating mathematical insights into practical algorithmic frameworks.  
+**Southeast University, School of Mathematics**  
+*November 2024 – Present*
+
+- Design and analyze iterative reconstruction algorithms for EIT with convergence guarantees and stability analysis.
+- Develop difference imaging methods using total variation and ℓ¹-based sparse regularization.
+- Formulate absolute imaging approaches via iterative regularization with convex penalty functionals.
+- Investigate forward problem modeling and mathematical well-posedness properties.
