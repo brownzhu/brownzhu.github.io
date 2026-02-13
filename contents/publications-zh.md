@@ -12,8 +12,12 @@
 
 ### 预印本与审稿中
 
-1. M. Zhong, W. Wang*, **K. Zhu**. Dynamic Levenberg–Marquardt algorithm with uniformly convex constraints based on sequential data. *预印本*, 2024.
+1. W. Wang, M. Zhong*, **K. Zhu**. Sequential-Data-Driven Levenberg-Marquardt Algorithm with Convex Constraints. *J. Complexity* (accepted).
 
-2. **K. Zhu**, W. Wang, M. Zhong*. Range-related Levenberg–Marquardt Kaczmarz method for nonlinear ill-posed problems with convex penalty. *预印本*, 2025.
+2. **K. Zhu**, Q. Jin, W. Wang, M. Zhong*. Restarted Adaptive Stochastic Nesterov Method with Early Stopping for Ill-Posed Inverse Problems. *预印本*.
 
-3. **K. Zhu**, M. Zhong*. A regularized adaptive Nesterov method for CEM-based electrical impedance tomography. *预印本*, 2025.
+3. K. Liang, **K. Zhu**, M. Zhong*. A Complete Reconstruction Procedure for Acousto-Electric Tomography with Unknown Noise Level. *预印本*.
+
+4. **K. Zhu**, W. Wang, M. Zhong*. Range-related Levenberg–Marquardt Kaczmarz method for nonlinear ill-posed problems with convex penalty. *预印本*, 2025.
+
+5. **K. Zhu**, M. Zhong*. A regularized adaptive Nesterov method for CEM-based electrical impedance tomography. *预印本*, 2025.
