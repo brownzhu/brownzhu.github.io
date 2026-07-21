@@ -1,2 +1,1 @@
-- The 3rd prize of excellent thesis in the "Scientific Computing and Its Application" Academic Innovation Forum of Jiangsu
-Province. Sep. 2022.
+- Third Prize for Outstanding Paper, Jiangsu Academic Innovation Forum on “Scientific Computing and Its Applications,” September 2022.

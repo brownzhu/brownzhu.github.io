@@ -1,5 +1,3 @@
-## Research Experience
-
 ### Electrical Impedance Tomography (EIT)
 
 **Southeast University, School of Mathematics**  

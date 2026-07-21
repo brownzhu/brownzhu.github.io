@@ -2,4 +2,12 @@ title: Kai Zhu's Homepage
 page-top-title: Kai Zhu
 top-section-bg-text: Seeking knowledge, writ in water.
 home-subtitle: <span class="english-name">Kai Zhu</span>&nbsp;&nbsp;&nbsp;&nbsp;<span class="chinese-name">朱凯</span>
-copyright-text: '&copy; Kai Zhu 2023-2025. All Rights Reserved.'
+nav-home: Home
+nav-awards: Awards
+nav-experience: Experience
+nav-publications: Publications
+awards-subtitle: <i class="bi bi-award-fill"></i>&nbsp;Awards
+experience-subtitle: <i class="bi bi-briefcase-fill"></i>&nbsp;Research Experience
+publications-subtitle: <i class="bi bi-file-text-fill"></i>&nbsp;Publications
+language-toggle: 中文
+copyright-text: '&copy; Kai Zhu 2023&ndash;2026. All rights reserved.'
