@@ -10,7 +10,7 @@
 
 4. W. Wang, M. Zhong*, **K. Zhu**. [Sequential-data-driven Levenberg–Marquardt algorithm with convex constraints](https://doi.org/10.1016/j.jco.2026.102027). *Journal of Complexity*, 2026, 95: 102027.
 
-5. K. Liang, **K. Zhu**, M. Zhong*. A complete reconstruction procedure for acousto-electric tomography with unknown noise level. *SIAM Journal on Imaging Sciences*, 2026, 19(3)，2026年7月14日在线发表。
+5. K. Liang, **K. Zhu**, M. Zhong*. [A complete reconstruction procedure for acousto-electric tomography with unknown noise level](https://doi.org/10.1137/25M1836714). *SIAM Journal on Imaging Sciences*, 2026, 19(3): 1439–1468.
 
 ### 预印本与手稿
 
