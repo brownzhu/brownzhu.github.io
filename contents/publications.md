@@ -18,4 +18,4 @@
 
 2. **K. Zhu**, W. Wang, M. Zhong*. Range-related Levenberg–Marquardt Kaczmarz method for nonlinear ill-posed problems with convex penalty. *Preprint*, 2025.
 
-3. **K. Zhu**, M. Zhong*. A regularized adaptive Nesterov method for CEM-based electrical impedance tomography. *Preprint*, 2025.
+3. **K. Zhu**, J. Liu, M. Zhong*. [Adaptive Nesterov Momentum Method for Electrical Impedance Tomography with the Complete Electrode Model](https://arxiv.org/abs/2608.25837). *arXiv preprint arXiv:2608.25837*, 2026.
