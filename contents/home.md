@@ -1,6 +1,6 @@
 ## 👤 About Me
 
-I am a Ph.D. candidate in Mathematics at the School of Mathematics, Southeast University. My research centers on inverse problems and medical imaging, with a focus on electrical impedance tomography (EIT) and acousto-electric tomography (AET). I am particularly interested in developing stable, interpretable, and practically applicable imaging and reconstruction methods that enhance robustness in complex media and real-world measurement scenarios.
+I am a Ph.D. candidate in Mathematics at the School of Mathematics, Southeast University. From March 2026 to September 2027, I am a CSC-sponsored Joint-PhD Visiting Researcher at Goethe University Frankfurt. My research centers on inverse problems and medical imaging, with a focus on electrical impedance tomography (EIT) and acousto-electric tomography (AET). I am particularly interested in developing stable, interpretable, and practically applicable imaging and reconstruction methods that enhance robustness in complex media and real-world measurement scenarios.
 
 ---
 
