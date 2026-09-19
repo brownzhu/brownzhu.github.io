@@ -1,3 +1,11 @@
+### 于韦斯屈莱暑期学校 2026
+
+**芬兰于韦斯屈莱大学**<br>
+*2026年8月3日 – 8月14日*
+
+- 参加第 35 届于韦斯屈莱暑期学校，重点学习电阻抗层析成像（EIT）的数学基础与计算方法。
+- 课程：**Electrical Impedance Tomography: Computation and Applications**（Melody Alsaker）和 **Mathematics of Electrical Impedance Tomography**（Samuli Siltanen）。
+
 ### CSC 联合培养博士研究生（访问研究）
 
 **德国法兰克福歌德大学**<br>

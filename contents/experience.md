@@ -1,3 +1,11 @@
+### Jyväskylä Summer School 2026
+
+**University of Jyväskylä, Finland**<br>
+*3–14 August 2026*
+
+- Participated in the 35th Jyväskylä Summer School, with a focus on the mathematical and computational foundations of electrical impedance tomography (EIT).
+- Courses: **Electrical Impedance Tomography: Computation and Applications** (Melody Alsaker) and **Mathematics of Electrical Impedance Tomography** (Samuli Siltanen).
+
 ### CSC Joint-PhD Visiting Researcher
 
 **Goethe University Frankfurt**<br>
