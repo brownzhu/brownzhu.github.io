@@ -12,10 +12,10 @@
 
 5. K. Liang, **K. Zhu**, M. Zhong*. [A complete reconstruction procedure for acousto-electric tomography with unknown noise level](https://doi.org/10.1137/25M1836714). *SIAM Journal on Imaging Sciences*, 2026, 19(3): 1439–1468.
 
+6. **K. Zhu**, Q. Jin, W. Wang, M. Zhong*. [Restarted adaptive stochastic Nesterov method with early stopping for ill-posed inverse problems](https://doi.org/10.1007/s00211-026-01575-x). *Numerische Mathematik*, 2026. Published online: 30 September 2026.
+
 ### Preprints and Manuscripts
 
-1. **K. Zhu**, Q. Jin, W. Wang, M. Zhong*. Restarted adaptive stochastic Nesterov method with early stopping for ill-posed inverse problems. *Preprint*.
+1. **K. Zhu**, W. Wang, M. Zhong*. Range-related Levenberg–Marquardt Kaczmarz method for nonlinear ill-posed problems with convex penalty. *Preprint*, 2025.
 
-2. **K. Zhu**, W. Wang, M. Zhong*. Range-related Levenberg–Marquardt Kaczmarz method for nonlinear ill-posed problems with convex penalty. *Preprint*, 2025.
-
-3. **K. Zhu**, J. Liu, M. Zhong*. [Adaptive Nesterov Momentum Method for Electrical Impedance Tomography with the Complete Electrode Model](https://arxiv.org/abs/2608.25837). *arXiv preprint arXiv:2608.25837*, 2026.
+2. **K. Zhu**, J. Liu, M. Zhong*. [Adaptive Nesterov Momentum Method for Electrical Impedance Tomography with the Complete Electrode Model](https://arxiv.org/abs/2608.25837). *arXiv preprint arXiv:2608.25837*, 2026.
