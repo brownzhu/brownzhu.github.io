@@ -1,6 +1,6 @@
 (\* = corresponding author)
 
-### Peer-Reviewed Articles
+### Published and Accepted Articles
 
 1. M. Zhong, W. Wang*, **K. Zhu**. [On the asymptotical regularization with convex constraints for nonlinear ill-posed problems](https://doi.org/10.1016/j.aml.2022.108247). *Applied Mathematics Letters*, 2022, 133: 108247.
 
@@ -14,8 +14,8 @@
 
 6. **K. Zhu**, Q. Jin, W. Wang, M. Zhong*. [Restarted adaptive stochastic Nesterov method with early stopping for ill-posed inverse problems](https://doi.org/10.1007/s00211-026-01575-x). *Numerische Mathematik*, 2026. Published online: 30 September 2026.
 
+7. **K. Zhu**, W. Wang, M. Zhong*. Range-related Levenberg–Marquardt Kaczmarz method for nonlinear ill-posed problems with convex penalty. *Inverse Problems*, accepted, 2026.
+
 ### Preprints and Manuscripts
 
-1. **K. Zhu**, W. Wang, M. Zhong*. Range-related Levenberg–Marquardt Kaczmarz method for nonlinear ill-posed problems with convex penalty. *Preprint*, 2025.
-
-2. **K. Zhu**, J. Liu, M. Zhong*. [Adaptive Nesterov Momentum Method for Electrical Impedance Tomography with the Complete Electrode Model](https://arxiv.org/abs/2608.25837). *arXiv preprint arXiv:2608.25837*, 2026.
+1. **K. Zhu**, J. Liu, M. Zhong*. [Adaptive Nesterov Momentum Method for Electrical Impedance Tomography with the Complete Electrode Model](https://arxiv.org/abs/2608.25837). *arXiv preprint arXiv:2608.25837*, 2026.
